@@ -1,1 +1,1 @@
-https://abdulazizsamandarov.github.io/auto-write-project/ 
+https://abdulazizsamandarov.github.io/auto-write-project/index.html
